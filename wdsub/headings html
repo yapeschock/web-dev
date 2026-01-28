@@ -1,6 +1,7 @@
+<!-- Please pay close attention to the casing (upper vs lower) and spelling of each tag. This first tag, for example, will always be written as <!DOCTYPE html> -->
 <!Doctipe html>
 <html>
-   <head>
+   <head>      <!-- missing closing head tag, as well as a title within the head -->
     <Body>
       <h1>my courses</h1>
        <h2>gametheory</h2> 
@@ -13,9 +14,10 @@
          <h3>reading american peotry</h3>
          <p>reading some of the most iconic and inportant books in us lit
        <h2>studyhall</h2> 
-         <h3>homework for other classes
+         <h3>homework for other classes      <!-- missing closing h3 tag -->
          <p> given from other teachers witch is then completed in this calss incase of no free time at home
   </body>
-   
+
+<!-- missing closing html tag -->
    
         
