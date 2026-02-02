@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<head>
+<head>        <!-- Close the head and put a set of title tags therein before you open the body -->
   <Body>
     <html>
       <h1>Papas famouse house pancakes</h1>
       <h2></h2>
-      <ol>
-        <li><h2>Ingredient</h2>
+      <ol>                  <!-- The overall structure of your nested lists looks right, and you even have a triple-layer nesting set up in the "put ingredients into the bowl step". Just need to flesh it all out with content and add some list-style-type properties. -->
+        <li><h2>Ingredient</h2>      
         <ul>
           <li>Eggs</li>
           <li>Flour</li>
@@ -34,3 +34,10 @@
  <a'https://www.wikipedia.org/' target'_blank>return to home</a> 
 <p></p>
 ./
+
+<!-- I think you didn't mean to make the ./ on line 36. Also, you're missing a couple of closing tags for the body and html document at the end here. -->
+
+<!-- Finally, you need to put ".html" at the end of the filename and please move this file into the wdsub folder. -->
+
+
+
