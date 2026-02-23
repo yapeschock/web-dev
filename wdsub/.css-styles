@@ -1,0 +1,13 @@
+<body style="background-color:black">
+a{color:white}
+    ul {font-style:italic}
+
+    p,a,li{font:red}
+
+/**/
+
+   a.itlink{font-weiht:bold}
+
+    #Maillink{font-weight:2cm}
+
+    a:hover{font:red}
