@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JP reviews</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=New+Rocker&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel></link>
+  </head>
+  <body>
+    <h1>JP's War movies</h1>
+    <p></p>
+    <div class="review-div">
+      <h2>Hacksaw Ridge</h2>
+      <p>biographical war drama directed by Mel Gibson,the true story of Desmond Doss, a Seventh-day Adventist medic who served in WWII's Battle of Okinawa without a weapon.</P>
+    </div>
+  <hr>
+  <div>
+     <div class="review-div">
+      <h2>Full metal jacket</h2>
+      <p>explores the dehumanizing effects of the U.S. Marine Corps on young men, tracing their transformation from individuals into killers during the Vietnam War.</P>
+    </div>
+  <hr>
+       <div class="review-div">
+      <h2>Fury</h2>
+      <p>battle-hardened U.S. Army tank commander, Don "Wardaddy" Collier,and his five-man crew on a dangerous mission behind enemy lines in Nazi Germany.</P>
+    </div>
+  <hr>
+ <div class="review-div">
+      <h2>American Sniper</h2>
+      <p> biographical war drama directed by Clint Eastwood and starring Bradley Cooper as U.S. Navy SEAL Chris Kyle</P>
+    </div>
+  <hr>
+ <div class="review-div">
+      <h2>Jarhead</h2>
+      <p>Jarhead (2005) is a anti-war biographical drama directed by Sam Mendes, based on Anthony Swofford’s memoir of his experiences as a U.S. Marine during the Gulf War.</P>
+    </div>
+  <hr>
+<a href="https://github.com/yapeschock/web-dev/blob/main/index.html">Home</a>
+</body>
+
+
+</html>
