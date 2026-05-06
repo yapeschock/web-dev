@@ -10,6 +10,11 @@ const UNCHECK_BOX = "<button onclick='checkItem(this)><svg viewBox='0 0 448 512'
 
 let newItem = document.getElementById("newItem");
 let list = document.getElementById("list");
+loadList();
+document.addeventlistener("beforeunload",() =>saveList() );
+
+//function defs 
+
 document.addEventListener("keydown", (key) => {
  if (key.code == "Enter") addItem(key);
 });                                      
@@ -51,4 +56,12 @@ function uncheckItem(elem) {
     parentLI.style.textDecoration = "none"; 
     parentLI.innerHTML = UNCHECK_BOX + parentLI.innerText + TRASH_BUTTON;
 }
+ function saveList(){
+    document.cookie = "list" = innerHTML;
+  }
+function loadList(){
+  let oldlist=document.cookie.substring(5);
+  if (oldlist != "")list.innerHTML = oldlist;
+}
+ 
 </body>
